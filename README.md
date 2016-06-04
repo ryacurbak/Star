@@ -1,2 +1,2 @@
 # Star
-Star Projects
+Star Project
